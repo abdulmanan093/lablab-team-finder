@@ -2,7 +2,8 @@
 
 A fast, lightweight tool to search, analyze, and find teams with open slots across [Lablab.ai](https://lablab.ai) hackathons.
 
-![Lablab Team Finder Dashboard](assets/dashboard_preview.png)
+<img width="1920" height="2104" alt="screencapture-127-0-0-1-5000-2026-09-06-19_43_32" src="https://github.com/user-attachments/assets/639c8d83-57a5-498c-ba41-88a1be1c7c78" />
+
 
 ---
 
