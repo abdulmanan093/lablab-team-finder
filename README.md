@@ -41,8 +41,8 @@ This tool solves all of that by providing:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/abdulmanan093/lablab-team-finder.git
-cd lablab-team-finder
+git clone https://github.com/abdulmanan093/lablabai-team-finder.git
+cd lablabai-team-finder
 ```
 
 ### Step 2: Install Required Packages
