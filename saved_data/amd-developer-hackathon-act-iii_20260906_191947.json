@@ -1,0 +1,2919 @@
+{
+  "eventSlug": "amd-developer-hackathon-act-iii",
+  "eventName": "AMD Developer Hackathon: ACT III",
+  "timestamp": "20260906_191947",
+  "displayTime": "Sep 06, 2026 19:19",
+  "teamCount": 90,
+  "registeredParticipants": 1808,
+  "teams": [
+    {
+      "id": "qd359ggx3ro2qxlfmeg1b4ck",
+      "name": "Rhema FOS",
+      "slug": "rhema-fos",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/rhema-fos",
+      "description": "RhemaForge AI is a multidisciplinary team building practical, high-performance AI solutions powered by modern compute.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 4,
+      "openSlots": 2,
+      "members": [
+        {
+          "name": "Funke Yusuf",
+          "username": "funke_yusuf298",
+          "location": "Nigeria",
+          "country": "Nigeria",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Nigeria",
+          "role": "Data and AI Architect",
+          "discord": "1229063116306780261"
+        },
+        {
+          "name": "Ahmed Raza Ur Rehman",
+          "username": "AhmedRaza",
+          "location": "Pakistan",
+          "country": "Pakistan",
+          "flag": "🇵🇰",
+          "group": "Asian",
+          "reason": "Country: Pakistan",
+          "role": "",
+          "discord": "1067799632039649320"
+        },
+        {
+          "name": "John Andrei Galutera",
+          "username": "XTENSEI",
+          "location": "Philippines",
+          "country": "Philippines",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Philippines",
+          "role": "",
+          "discord": "795919314380259358"
+        },
+        {
+          "name": "Logeshwaran  R",
+          "username": "Logeshwaran_R",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1438101039059304543"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 2,
+      "unclassCount": 1,
+      "score": 99.0,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Open slots (2): +30; International members (2): +40; Core team (4): +14; Has active idea: +15"
+    },
+    {
+      "id": "zu8avjti2fxqcoo4ua6hmol5",
+      "name": "Infinity Forge",
+      "slug": "infinity-forge",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/infinity-forge",
+      "description": "dedicated builders with an ambition to help the world",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "Elias Kakish",
+          "username": "Clue",
+          "location": "Jordan",
+          "country": "Jordan",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Jordan",
+          "role": "",
+          "discord": "757909909743337483"
+        },
+        {
+          "name": "Saif Shbeita",
+          "username": "Saif_shbeita",
+          "location": "Jordan",
+          "country": "Jordan",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Jordan",
+          "role": "automations and RAG developer",
+          "discord": "691074312643280906"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 2,
+      "unclassCount": 0,
+      "score": 92.0,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Open slots (4): +30; International members (2): +40; Core team (2): +7; Has active idea: +15"
+    },
+    {
+      "id": "miqojt0komamhz39k8jpm4u3",
+      "name": "Basar",
+      "slug": "basar",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/basar",
+      "description": "Basar is exploring agentic AI and high-performance AI applications powered by AMD GPU infrastructure. We're focused on building practical, production-oriented AI systems that combine intelligent agents, scalable software architecture, and accelerated AI workloads. Open to collaborating with builders experienced in AI/ML, ROCm, GPU optimization, LLMs, and AI infrastructure.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "Roel Abasa",
+          "username": "basar",
+          "location": "Philippines",
+          "country": "Philippines",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Philippines",
+          "role": "",
+          "discord": "475866396568322063"
+        },
+        {
+          "name": "Gloria Padamati",
+          "username": "Gloria111",
+          "location": "United Arab Emirates",
+          "country": "United Arab Emirates",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: United Arab Emirates",
+          "role": "Student",
+          "discord": "1506715684967678034"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 2,
+      "unclassCount": 0,
+      "score": 92.0,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Open slots (4): +30; International members (2): +40; Core team (2): +7; Has active idea: +15"
+    },
+    {
+      "id": "iduv8xiely45udyk56l5oof3",
+      "name": "RENETZY",
+      "slug": "renetzy",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/renetzy",
+      "description": "8 Projects tribute for rene",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Imman Bufi",
+          "username": "nufii45",
+          "location": "Philippines",
+          "country": "Philippines",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Philippines",
+          "role": "",
+          "discord": "1199696898429288508"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Open slots (5): +30; International members (1): +20; Core team (1): +4"
+    },
+    {
+      "id": "otppbfdmgd62wwsbrxswps2l",
+      "name": "Whoopsie",
+      "slug": "whoopsie",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/whoopsie",
+      "description": "Pymorphic agent with unmatched searching indexing and tooling",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "lemuelle breytenbach",
+          "username": "lemuelle9075355",
+          "location": "South Africa",
+          "country": "South Africa",
+          "flag": "🌎",
+          "group": "International",
+          "reason": "Country: South Africa",
+          "role": "Wizard",
+          "discord": "1499472374980935913"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "y53hu4q6ii23f71ker49l2jv",
+      "name": "Cubiczan",
+      "slug": "cubiczan",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/cubiczan",
+      "description": "a live decision engine where a council of specialized LLM agents (analyst, contrarian, sentinel) debates high-stakes questions, votes, and explains every verdict. Every juror is served locally by vLLM on AMD Instinct GPUs via ROCm, with a real-time dashboard showing per-juror tokens/sec, latency, and GPU utilization — \"multi-agent AI you can audit,\" plus a benchmark story that shows what AMD's compute stack can actually unlock",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Shyam Desigan",
+          "username": "impactquadrant655",
+          "location": "United States",
+          "country": "United States",
+          "flag": "🇺🇸",
+          "group": "International",
+          "reason": "Country: United States",
+          "role": "",
+          "discord": "604765887244926987"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "pftrb8v7b1o0bhhimfqq2sgd",
+      "name": "The Power Power",
+      "slug": "the-power-power",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/the-power-power",
+      "description": "We’re building practical AI systems that go beyond demos. Our focus is on AI agents, agent orchestration, workflow automation, and the engineering layers that make AI reliable in real-world environments.\n\nFor ACT III, we’re interested in exploring how high-performance AI infrastructure can support agents that reason, use tools, coordinate workflows, validate their own outputs, and reliably complete real tasks.\n\nWe bring together AI system design, workflow engineering, product thinking, and real-world business experience. Our goal is simple: build something technically solid, genuinely useful, and capable of running beyond the hackathon.",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Joanna Wang",
+          "username": "Joanna8521",
+          "location": "Taiwan",
+          "country": "Taiwan",
+          "flag": "🌎",
+          "group": "International",
+          "reason": "Country: Taiwan",
+          "role": "",
+          "discord": "936380431492841512"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "mn74qc8vfaa7rln72ifgppjx",
+      "name": "Purrwolf",
+      "slug": "purrwolf",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/purrwolf",
+      "description": "Sharp,silent Intellgent And Most capable",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "ihtisham ahmad",
+          "username": "theihtisham",
+          "location": "United Arab Emirates",
+          "country": "United Arab Emirates",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: United Arab Emirates",
+          "role": "SOFTWARE ENGINEER",
+          "discord": "1536297743780290580"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "wii63dwkedua4s4k51308jox",
+      "name": "Armed Winegrowers",
+      "slug": "armed-winegrowers",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/armed-winegrowers",
+      "description": "Georgian AI / ML / Product team",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "george80044",
+          "location": null,
+          "country": null,
+          "flag": "🌎",
+          "group": "International",
+          "reason": "Name match (george)",
+          "role": null,
+          "discord": "250701958631915520"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "yvwogo8t8lzmm2kzemzagpzr",
+      "name": "AI Frontier racers",
+      "slug": "ai-racers",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/ai-racers",
+      "description": "Driven developers racing toward the frontier of AI enlightenment.\nSouthamerica based.",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Daniel Yandun",
+          "username": "daniel_yandun299",
+          "location": null,
+          "country": null,
+          "flag": "🌎",
+          "group": "International",
+          "reason": "Name match (daniel)",
+          "role": null,
+          "discord": "300722904004296704"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "kce0a66f9dg4p9r9ni4m4ypg",
+      "name": "DOW Project",
+      "slug": "dow-project",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/dow-project",
+      "description": "Think Build Solve, Just DOW It!",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Rivaldi Murpia",
+          "username": "RivalD",
+          "location": "Indonesia",
+          "country": "Indonesia",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Indonesia",
+          "role": "Founder",
+          "discord": "995349469673558098"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "eaays62ddvs7kv98a4lym794",
+      "name": "ATLAS X TECHNOLOGY / NEUROMETRIX",
+      "slug": "atlas-x-technology-neurometrix",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/atlas-x-technology-neurometrix",
+      "description": "NEUROMETRIX: Neurological solution powered by autonomous artificial intelligence.",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "FRANKLIN DAVID CANDURI PRESILLA",
+          "username": "franklindexx",
+          "location": "Venezuela",
+          "country": "Venezuela",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Venezuela",
+          "role": "Data Sciencie",
+          "discord": "1335445166055751715"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "j996bw2cwpk6a8yn0rkcye1j",
+      "name": "Metamorph",
+      "slug": "metamorph",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/metamorph",
+      "description": "I am building a cross-platform Kotlin composable individual optimization system based on background delegation to autonomous agents.",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Santi Benavidez",
+          "username": "santiagoctech51745",
+          "location": "Argentina",
+          "country": "Argentina",
+          "flag": "🌎",
+          "group": "International",
+          "reason": "Country: Argentina",
+          "role": "Code wizard",
+          "discord": "745623798241558589"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "p8xroni4flgpzvvcudj7h3rn",
+      "name": "EinsRos Global Cortex Ultd by F1725",
+      "slug": "einsros-global-cortex-ultd-by-f1725",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/einsros-global-cortex-ultd-by-f1725",
+      "description": "EinsRos Global Cortex Ultd by F1725 presents KLARIXA IA: the first AI and Metaverse ecosystem born in Colombia. We are building a unified, high-performance AI agent powered by the Nonacortex 5-3-1 architecture and optimized to run on AMD GPUs with ROCm. Our ecosystem integrates 48 specialized modules (KST, KHealth Real, KBoard, etc.) with proprietary security (Cuad-Fibo, Pi-Chaos) and the KLX Token. We are looking for an AI Engineer and a DevOps/Cloud Specialist to help us deploy our agentic AI on AMD Cloud, optimizing for low-latency inference and high-performance AI applications. Join us to build the future of decentralized, sovereign AI infrastructure from Latin America for the world.",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Freddy Adrián Sánchez Colmenares",
+          "username": "f1725developmenttechnologies",
+          "location": "Colombia",
+          "country": "Colombia",
+          "flag": "🌎",
+          "group": "International",
+          "reason": "Country: Colombia",
+          "role": "Architect ",
+          "discord": "1503106215033569341"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 48.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "ozu3qpe3n55zicc11wj688qp",
+      "name": "openproject",
+      "slug": "openproject",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/openproject",
+      "description": "novice ia workers/learner",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "davide galvani",
+          "username": "worksonmymachine",
+          "location": "Italy",
+          "country": "Italy",
+          "flag": "🇮🇹",
+          "group": "International",
+          "reason": "Country: Italy",
+          "role": "",
+          "discord": "1543635556976820365"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4"
+    },
+    {
+      "id": "l519k21wnc26059pz1jucgyf",
+      "name": "Blue Palm Network",
+      "slug": "blue-palm-network",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/blue-palm-network",
+      "description": "Relaxation flying app",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "colin lynch",
+          "username": "cclynch83",
+          "location": "United States",
+          "country": "United States",
+          "flag": "🇺🇸",
+          "group": "International",
+          "reason": "Country: United States",
+          "role": "",
+          "discord": "841405575476674593"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4"
+    },
+    {
+      "id": "t1sgtg32dfs00k8qvgtshdco",
+      "name": "The Corvus Guild",
+      "slug": "the-corvus-guild",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/the-corvus-guild",
+      "description": "one man guild raghhh",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Justin Encabo",
+          "username": "vanta-jack",
+          "location": "Philippines",
+          "country": "Philippines",
+          "flag": "🌐",
+          "group": "International",
+          "reason": "Location: Philippines",
+          "role": "Student Researcher",
+          "discord": "434557548885049362"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4"
+    },
+    {
+      "id": "mlud07hkkr8yx0zvsk41yaqg",
+      "name": "TheGPUHax",
+      "slug": "thegpuhax",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/thegpuhax",
+      "description": "another hackathon for me",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Hamzah Bin Mohd Rafi",
+          "username": "Zalanupi",
+          "location": "Singapore",
+          "country": "Singapore",
+          "flag": "🇸🇬",
+          "group": "International",
+          "reason": "Country: Singapore",
+          "role": "Business Analytics Student",
+          "discord": "332927764116144132"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4"
+    },
+    {
+      "id": "ei7eoo4zr1nt55s00xm0md11",
+      "name": "No Well",
+      "slug": "no-well",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/no-well",
+      "description": "trying hackathon eh?",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Labo John Noel Napitupulu",
+          "username": "labo_john_noel_napitupulu646",
+          "location": null,
+          "country": null,
+          "flag": "🌎",
+          "group": "International",
+          "reason": "Name match (john)",
+          "role": null,
+          "discord": "486063444055818240"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 1,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "🔥 International Match",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; International members (1): +20; Core team (1): +4"
+    },
+    {
+      "id": "kz97sfch4bae0uewy9hfxuvr",
+      "name": "Apix77",
+      "slug": "apix77",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/apix77",
+      "description": "we focus on making better things",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 3,
+      "openSlots": 3,
+      "members": [
+        {
+          "name": "Adi aX",
+          "username": "adix57",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1477625090005798953"
+        },
+        {
+          "name": "Praneel Dhabadi",
+          "username": "praneeldhabadi46413",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Student",
+          "discord": "1515451170557132862"
+        },
+        {
+          "name": "Anonymous",
+          "username": "abhibagodi200526602",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1254804091712962661"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 2,
+      "score": 60.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (3): +30; All Asian team: +5; Core team (3): +10; Has active idea: +15"
+    },
+    {
+      "id": "boahi1q1bdst5mtv5qfegnvn",
+      "name": "Teqprotech",
+      "slug": "teqprotech",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/teqprotech",
+      "description": "Building practical AI tools, agents, and automation systems that solve real-world problems.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "Talal Khawaja",
+          "username": "Kmt9967",
+          "location": "Pakistan",
+          "country": "Pakistan",
+          "flag": "🇵🇰",
+          "group": "Asian",
+          "reason": "Country: Pakistan",
+          "role": "Production Manager",
+          "discord": "950373094483193926"
+        },
+        {
+          "name": "Aqeela Urooj",
+          "username": "aqeelaurooj",
+          "location": "Pakistan",
+          "country": "Pakistan",
+          "flag": "🇵🇰",
+          "group": "Asian",
+          "reason": "Country: Pakistan",
+          "role": "Laravel Developer",
+          "discord": "1513226076959277085"
+        }
+      ],
+      "asianCount": 2,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 57.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (4): +30; All Asian team: +5; Core team (2): +7; Has active idea: +15"
+    },
+    {
+      "id": "gafdl66uksk9s1wcth2kmm4f",
+      "name": "Lunar Logic",
+      "slug": "lunar-logic",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/lunar-logic",
+      "description": "Although we are beginning but we will do out best, if you are beginning now and want expeirnce then join us but with a promise to work hard",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Shaan Prasad",
+          "username": "theshaanprasad12989",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1513136309781135503"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "opm0kefm7odag3ck3wd3zx72",
+      "name": "WHIRLIE",
+      "slug": "whirlie",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/whirlie",
+      "description": "I need enthusiastic people who are curious about AI and keep in touch with me as a friend.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Mohammed Fasih Uddin Adnan",
+          "username": "mfasihuddinadnan94380",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Researcher",
+          "discord": "1543916306586411035"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "rwew6j6frwi8l7dud9k2zch5",
+      "name": "ROCM Raiders",
+      "slug": "rocm-raiders",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/rocm-raiders",
+      "description": "ROCM Raiders  is a team of passionate developers and AI innovators building intelligent, high-performance solutions with AI, AMD ROCM, GPU acceleration, and modern cloud technologies. Our mission is to turn real-world challenges into impactful, scalable products.\n\nAccelerate Intelligence. Build the Future.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Krishna Rajput",
+          "username": "krishna_patil_rajput",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Web Game Android Developer",
+          "discord": "1297430740811776090"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "sqskv11wpp41vzaj3r0zuphr",
+      "name": "MYAIAMDROCmPV3_1_2",
+      "slug": "myaiamdrocmpv312",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/myaiamdrocmpv312",
+      "description": "Hello Everyone this MD ABUL HOSSAIN once again with \"MYAIAMDROCmPV3_1_2\" Through this project work we will learn, earn and design a HIP and CUDA versions of hipcc the same vactor-add kernel. The hipify-perl tool, data-parallel workloads, GPU deliver over CPUs and ROCm compatibility matrix before installing. Excited wan to discover more features and experience then join at \n\"MYAIAMDROCmPV3_1_2\" and share your experiences with us. Thank you.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "MDABUL HOSSAIN",
+          "username": "harigov63",
+          "location": "Bangladesh",
+          "country": "Bangladesh",
+          "flag": "🇧🇩",
+          "group": "Asian",
+          "reason": "Country: Bangladesh",
+          "role": "Senior Vice President",
+          "discord": "1530717013742190665"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "a466dsb97x9lnyi04anhhwgg",
+      "name": "Chefs",
+      "slug": "chefs",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/chefs",
+      "description": "We build smart scalable efficient and reliable softwares",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Manan Shah",
+          "username": "mananshah64792768",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "723506675457196062"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "lhxibzfd2z8ce34plbtsxf2v",
+      "name": "Code Paglus",
+      "slug": "code-paglus",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/code-paglus",
+      "description": "We are Code Paglus: a high-energy team building AI-driven platforms. We turn bold ideas into intelligent software and fast-track digital future!",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Arsheel Patel",
+          "username": "ArsheelPatel06",
+          "location": null,
+          "country": null,
+          "flag": "🌏",
+          "group": "Asian",
+          "reason": "Name match (patel)",
+          "role": null,
+          "discord": "1402876518954434580"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "pdundj1ipexfdfsigfb4y0dj",
+      "name": "Telepathy",
+      "slug": "telepathy",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/telepathy",
+      "description": "I don't know what I'm gonna build but it would depend on my learning from this academy",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Tejas Rishi G",
+          "username": "rishihastrauma",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Student",
+          "discord": "1544672300325019703"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "pn2qi5ksd51kk6gamaapmt1m",
+      "name": "DONT",
+      "slug": "dont",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/dont",
+      "description": "I SMASH SOMETHING AND I STILL USE THAT SHIT",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Madhava Brightly",
+          "username": "madhavabrightly557",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1461344192726040609"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "qwvy67nbtgyqb45ntmwr6gkb",
+      "name": "AI Explorer",
+      "slug": "ai-explorer",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/ai-explorer",
+      "description": "No ideas right now. Short background, I am senior data engineers with experience in Azure SQL, data factory & snowflake. AI is something new I want to learn and build on. Here to learn and explore",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Koushik Ganiga",
+          "username": "koushik87899408",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "903161786637885471"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 53.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "h267bywn560wcphda2vdnzb8",
+      "name": "Dead Squad",
+      "slug": "dead-squad",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/dead-squad",
+      "description": "I Don't Know a thing about Coding and Ai , I am learner just want to keep growing and learning anyone who is passionate and want to actively guide a new bee,help me can join me we will work as team.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "parthdwivedi48638252",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "824872416231948359"
+        },
+        {
+          "name": "Anonymous",
+          "username": "srikarr1601200887767",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "952912345368248432"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 2,
+      "score": 52.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (4): +30; Core team (2): +7; Has active idea: +15"
+    },
+    {
+      "id": "y62p4rn3q8c60jhxfzylbae2",
+      "name": "ApexSynth",
+      "slug": "apexsynth",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/apexsynth",
+      "description": "ApexSynth exists to synthesize intelligence at the highest level. We're building a cognitive layer that connects siloed information, uncovers hidden patterns, and delivers decisions at machine speed. No wrappers. No fluff. Just breakthrough engineering.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 5,
+      "openSlots": 1,
+      "members": [
+        {
+          "name": "Mohammed Ghazi Ansari",
+          "username": "ghaziansari44",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Mechanical Engineer",
+          "discord": "1542823973719375973"
+        },
+        {
+          "name": "Ziya Sayed",
+          "username": "ziyasayed",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Student ",
+          "discord": "1530582383794065568"
+        },
+        {
+          "name": "Aashna Gupta",
+          "username": "aashnagupta",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Student",
+          "discord": "1237402363661258762"
+        },
+        {
+          "name": "Vihaa Dogra",
+          "username": "dogravihaa40516",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Student",
+          "discord": "808680604710207508"
+        },
+        {
+          "name": "Dishita Joshi",
+          "username": "__dishita2007",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "Student",
+          "discord": "1185608077530103908"
+        }
+      ],
+      "asianCount": 5,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 50.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (1): +15; All Asian team: +5; Core team (5): +15; Has active idea: +15"
+    },
+    {
+      "id": "vub4hflrjepfi7j5k1udagpp",
+      "name": "Circle",
+      "slug": "circle",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/circle",
+      "description": "Someone who deeply passionate about the transformative potential of AI.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Circle",
+          "username": "circle367",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "732942145358528572"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "y2bi07087r8cmzwbggfljjmt",
+      "name": "Decipher",
+      "slug": "decipher",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/decipher",
+      "description": "We build cool stuff. Feel free to send a invite request",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "kshagash74088",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1447596900990582888"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "truhxdmaoxaa1v444a5onwiu",
+      "name": "Naglos",
+      "slug": "naglos",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/naglos",
+      "description": "Anyone can join and feel free to work with me",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "luicejakson7969602",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1492156375449469030"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "snmmjisltvz12duf0wois0cd",
+      "name": "Singlish",
+      "slug": "singlish",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/singlish",
+      "description": "AI Chatbot Capable of speaking Singlish with proper Singaporean dialect and tone.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "zakirc62472",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1288536970707865718"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "reomxiyhigc37joqbrlxi6wy",
+      "name": "Vie Mind",
+      "slug": "vie-mind",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/vie-mind",
+      "description": "An AI solution for connecting business and farmers to push consumption.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Nguyễn Đình Khải",
+          "username": "nguyn_nh_khi486",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "746941382794412153"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "xhdlkju8ywq9bq8se0o7rx1h",
+      "name": "Trinetra",
+      "slug": "trinetra",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/trinetra",
+      "description": "To be quietly brilliant is to give to the world",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "nikhilkadamlite10109",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1175449382297010269"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "jhqnlmne14p48f5xsk6mekns",
+      "name": "Zenith Node",
+      "slug": "zenith-node",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/zenith-node",
+      "description": "At Zenith Node, we connect good vibes with great code to build awesome, out-of-the-box projects and smash this hackathon. We are building Real-Time Neural Style Transfer for Games- a pipeline that intercepts 3D game frames and applies a generative AI style transfer in real time turning a standard 3D world into a watercolor painting or an anime style on the fly. We need people on these roles \n1. The AI/ML Inference Engineer (The Optimizer)- Key Skills: PyTorch, ONNX Runtime, and hardware-specific acceleration like AMD ROCm or DirectML. They need to understand quantization (shrinking the model's math footprint) so it fits in the GPU memory alongside the game. \n2. The Graphics/Engine Programmer (The Plumber)-Key Skills: C++, and deep knowledge of rendering pipelines. They should know how to intercept G-buffers using custom render passes in Unity or Unreal Engine, or via raw graphics APIs like Vulkan.\n3. The Compute Shader Specialist (The Accelerator)- Vulkan Compute, HLSL, or GLSL.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "moulikgupta3556958",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "768682378448863272"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "uca72oc5smafuu5bq3cj51tn",
+      "name": "Team-X-Men",
+      "slug": "team-x-men",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/team-x-men",
+      "description": "AI Agents using AMD cloud credits",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Pasupunuri Satyanarayana",
+          "username": "satyeah",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1531554227590266910"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "w14eh3i8efkgdzxnd2oa5fko",
+      "name": "Velocity",
+      "slug": "velocity",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/velocity",
+      "description": "Join for more info and knowledge",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "mdtousif131237084",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1499500207841214545"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "oov2w1u4wx9cp63sa4dnt6fm",
+      "name": "ItalAI",
+      "slug": "italai",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/italai",
+      "description": "Living and Studying in Milan with experience in full stack, and some ai automation, but It's my first Hackaton. I would like a team of possibly people living in Milan (or some from the same timezone) with experience and a high willingness to win.",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "fast",
+          "username": "fast347",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "452550970346569738"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 48.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "ewkg33489kvyv3qsyxevifog",
+      "name": "ballknowledge",
+      "slug": "ballknowledge",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/ballknowledge",
+      "description": "to be written soon huh",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "Ayush Anand",
+          "username": "anandd006",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "763812442110558248"
+        },
+        {
+          "name": "Asit Agarwal",
+          "username": "asitkumaragarwal20354",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "696015336860024844"
+        }
+      ],
+      "asianCount": 2,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 42.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (4): +30; All Asian team: +5; Core team (2): +7"
+    },
+    {
+      "id": "w5r6q1j3dgjcvu80akftfmn4",
+      "name": "eraya",
+      "slug": "eraya",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/eraya",
+      "description": "newbieeeeeeeeeeeeeeeeee",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Pardeep Singh",
+          "username": "martian3062636",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "data science intern",
+          "discord": "733169238256123954"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 38.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "f2wgue1gibicfsg9d2i8mlme",
+      "name": "white_code",
+      "slug": "whitecode",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/whitecode",
+      "description": "make simple and ordinary",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Sandeep Kumar Sandeep Kumar",
+          "username": "sandeep_kumar771",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1528874664682717254"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 38.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "m7y5vnsc3a2lqc1691m65161",
+      "name": "Nexus",
+      "slug": "nexus",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/nexus",
+      "description": "Here to Learn and Grow",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Suryansh Pratap Singh",
+          "username": "Suryansh18",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "764116814488666165"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 38.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "pv351n2sotvdjbko36z8dv01",
+      "name": "AI Warrior",
+      "slug": "ai-warrior",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/ai-warrior",
+      "description": "Working on that now!",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Niket Patil",
+          "username": "AINike",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "889772089224093727"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 38.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "hod6zsfwackff6f1qe1ijfwr",
+      "name": "Airborne Inference",
+      "slug": "airborne-inference",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/airborne-inference",
+      "description": "Building a real-time onboard vision system for an autonomous drone — training and optimizing the perception model on AMD Instinct GPUs via ROCm in the cloud, then deploying a lightweight distilled version to run inference directly on the drone for obstacle avoidance, with zero cloud round-trip in flight. Exploring an agentic layer on top for mission planning and adaptive flight decisions. Looking for teammates with computer vision, ROCm/PyTorch, or embedded systems (ESP32/edge inference) experience.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "TejaVardhan Reddy Yerragudi",
+          "username": "TejaVardhan",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1541463650919911444"
+        },
+        {
+          "name": "Varun N Hiremath",
+          "username": "Varun_N_Hiremath",
+          "location": null,
+          "country": null,
+          "flag": "🌏",
+          "group": "Asian",
+          "reason": "Name match (varun)",
+          "role": null,
+          "discord": "1544338259503616082"
+        }
+      ],
+      "asianCount": 2,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 37.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (4) but INVITE_ONLY: +10; All Asian team: +5; Core team (2): +7; Has active idea: +15"
+    },
+    {
+      "id": "hrtga9v36h6755j2h2uz5w7x",
+      "name": "SuccessCoded",
+      "slug": "successcoded",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/successcoded",
+      "description": "SuccessCoded is a team of AI and software enthusiasts building innovative, practical solutions to real-world problems through technology.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "Amina Khan",
+          "username": "aminakhan",
+          "location": null,
+          "country": null,
+          "flag": "🌏",
+          "group": "Asian",
+          "reason": "Name match (khan)",
+          "role": null,
+          "discord": "1530874824031862875"
+        },
+        {
+          "name": "Amina Mehwish",
+          "username": "amina_mehwish12",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1338218426732118048"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 37.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (4) but INVITE_ONLY: +10; All Asian team: +5; Core team (2): +7; Has active idea: +15"
+    },
+    {
+      "id": "ko3ymf6ujotv4bwlccfc8sfc",
+      "name": "PARALLAXxxx",
+      "slug": "parallaxxxx",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/parallaxxxx",
+      "description": "We are here to build something crazzzzyyzyy",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "shivng2803200778830",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1016698133046104105"
+        },
+        {
+          "name": "Arinjay Singh",
+          "username": "arushwit280875081",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1535142607926206535"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 37.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (4) but INVITE_ONLY: +10; All Asian team: +5; Core team (2): +7; Has active idea: +15"
+    },
+    {
+      "id": "gmpvhpejfya9zpbczswzsoax",
+      "name": "Secverse",
+      "slug": "secverse",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/secverse",
+      "description": "Securing systems is what we do",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "gajjisathvik29326",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1321764672491360307"
+        },
+        {
+          "name": "Sree Charan",
+          "username": "sree_charan27",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "768329513763078145"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 2,
+      "score": 37.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (4): +30; Core team (2): +7"
+    },
+    {
+      "id": "lwum9j9n1q43urt2sx4pj295",
+      "name": "Lucifer",
+      "slug": "lucifer",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/lucifer",
+      "description": "Think and Build with AI",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "tsrenukesh28993",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1497991517518692392"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4"
+    },
+    {
+      "id": "ckv46z75xh1nju37wisb6rrs",
+      "name": "Nexara9",
+      "slug": "nexara9",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/nexara9",
+      "description": "AI procurement agent with on-chain spending controls.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Sujal Negi",
+          "username": "sujal_negi883",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1032155941346484225"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "hdoxe2eh12ahxemm3t3ngocx",
+      "name": "PARALLAX",
+      "slug": "parallax",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/parallax",
+      "description": "PARALLAX is a team of builders focused on turning interesting problems into meaningful, well-executed solutions. We bring together AI, software development, design, and creative problem-solving to build useful, original, and technically thoughtful applications.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Khalid Hussain",
+          "username": "sheikh_khalid_hussain837",
+          "location": "Pakistan",
+          "country": "Pakistan",
+          "flag": "🇵🇰",
+          "group": "Asian",
+          "reason": "Country: Pakistan",
+          "role": "Founder",
+          "discord": "1536946266565644300"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "qu3wck3n537itilz8asz5ivf",
+      "name": "Volco",
+      "slug": "volco",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/volco",
+      "description": "just a student trying his hand at hackathons",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Muhammad Ebad",
+          "username": "mebadurrehman161793489",
+          "location": "Pakistan",
+          "country": "Pakistan",
+          "flag": "🇵🇰",
+          "group": "Asian",
+          "reason": "Country: Pakistan",
+          "role": "Student",
+          "discord": "906410611485839420"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "txa5u3ts1mldzh30by8ksun0",
+      "name": "Unpredictable Zone",
+      "slug": "unpredictable-zone",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/unpredictable-zone",
+      "description": "Welcome to the Unpredictable Zone! Expect the unexpected. We are a dynamic squad breaking boundaries and mastering chaotic challenges together.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Livesh Jha",
+          "username": "livesh_zhaa03",
+          "location": "",
+          "country": null,
+          "flag": "🌏",
+          "group": "Asian",
+          "reason": "Name match (jha)",
+          "role": "Junior AI Eng",
+          "discord": "1417120697448403024"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "mglv9tpjtzthu6yfigruq455",
+      "name": "999",
+      "slug": "999",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/999",
+      "description": "Ai assisted development",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "mogindranb35108",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "842068956503212093"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4"
+    },
+    {
+      "id": "pr1rlyn5rcp58ubl4vj8ysw2",
+      "name": "veer",
+      "slug": "veer",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/veer",
+      "description": "i don't know what I am doing",
+      "joinMode": "OPEN",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "aryanjaingenai82299",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1467490183132872846"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Open slots (5): +30; Core team (1): +4"
+    },
+    {
+      "id": "jsxwxt12gkgogisjm2nr43ai",
+      "name": "PJY RuST BaBA",
+      "slug": "pjy-rust-baba",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/pjy-rust-baba",
+      "description": "\"Building an AI chatbot for local businesses\".",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Dharmendra Kushwaha",
+          "username": "PJY_L",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1538899668652785715"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "aujcm5r9004wn01rrp6s87px",
+      "name": "Neuron Burners",
+      "slug": "neuron-burners",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/neuron-burners",
+      "description": "Building prototypes while having fun.",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "ROBIUL HASAN",
+          "username": "rhasan22959110",
+          "location": "Bangladesh",
+          "country": "Bangladesh",
+          "flag": "🇧🇩",
+          "group": "Asian",
+          "reason": "Country: Bangladesh",
+          "role": "Technical Director",
+          "discord": "235271452633333761"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 33.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; All Asian team: +5; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "hv2olwxwfhhdeluqf2f4ku43",
+      "name": "ionchino",
+      "slug": "ionchino",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/ionchino",
+      "description": "AI-assisted radiology platform that uses pre-trained computer vision models to analyze X-rays, detect potential abnormalities, and generate visual insights to support healthcare professionals, especially in clinics with limited access to radiology expertise.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "aslafa33355505",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "286557326721286144"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "ba49kr4gsximfz18lizlbmim",
+      "name": "Techie Tacos",
+      "slug": "techie-tacos",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/techie-tacos",
+      "description": "Building an AI powered operating system for small businesses that automates customer interactions, marketing, lead management and everyday business workflows. The project will combine AI agents, intelligent automation and AMD powered infrastructure to create practical tools that local businesses can actually use. I’m looking to explore scalable AI applications, experiment with AMD technologies and turn the strongest idea into a polished, real world product.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Nandini Pathak",
+          "username": "nandinii777",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1475897393584144469"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "jnco0fgxu6qazn9xj6krs3tp",
+      "name": "Anonymous",
+      "slug": "anonymous",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/anonymous",
+      "description": "We are building something that no one has ever seen before",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Nishant Narudkar",
+          "username": "nishant_narudkar940",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "845579240082636800"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "ie5ptnit9xnge8eah1wwu9ku",
+      "name": "Celestial Sapiens",
+      "slug": "celestial-sapiens",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/celestial-sapiens",
+      "description": "We are researching on ideas as of now",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Rashi Garg",
+          "username": "RashiGarg",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "897797060198301697"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "omrq45yhnwl66yrn4mpl48yv",
+      "name": "Cerberus",
+      "slug": "cerberus",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/cerberus",
+      "description": "The intent to build sentinel-grade residence security powered by custom fine-tuned AI models",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "albermen220957459",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "546082928598188053"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "q0z0gdgkgf200l0fh4rcp6ja",
+      "name": "Bebop Crew",
+      "slug": "bebop-crew",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/bebop-crew",
+      "description": "A crew of AI bounty hunters turning raw data into intelligent solutions with pure jazz-like improvisation.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "tanaybhatt5834548",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1321055291332366371"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "tt1r8lqf787hak8905eh1qjt",
+      "name": "Jinho",
+      "slug": "jinho",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/jinho",
+      "description": "I'm looking to build a practical AI project and find teammates interested in AI, web development, and creative problem-solving.",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Jinho Noh",
+          "username": "jinho_noh223",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "528528420834115588"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "s0j4gflp8sxj022y4kziwo0a",
+      "name": "Logic Gate Devs",
+      "slug": "logic-gate-devs",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/logic-gate-devs",
+      "description": "solo builder focusing on Embedded C++ and ESP32 hardware integration for Edge AI applications",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "cgraditya75972",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "955801615837851679"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "umfumegj1vbtall771zkcwvu",
+      "name": "Ravenai",
+      "slug": "ravenai",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/ravenai",
+      "description": "Building innovative AI solutions powered by AMD technology. We are looking for passionate developers and enthusiasts ready to build high-performance products.",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "fedevuduart58590",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1243931790972948561"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "slnnsg8gp9ncm745afvzikeo",
+      "name": "Kalaris Labs",
+      "slug": "kalaris-labs",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/kalaris-labs",
+      "description": "Powering the next generation of autonomous R&D.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Srihari Muralikrishnan",
+          "username": "srihari_muralikrishnan484",
+          "location": "",
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": "",
+          "discord": "943423786617827349"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "q2efcewcgrhauod9dddobe2n",
+      "name": "solo-leveling",
+      "slug": "solo-leveling",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/solo-leveling",
+      "description": "testing my limits, trying to break it",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "nghiamkqn93177",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "390636323200827394"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "v3b7u8qkrqo7xh77m0sdc8kb",
+      "name": "Cult--D42",
+      "slug": "cult-d42",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/cult-d42",
+      "description": "we are the civil engineers trying to crack in AI stuff",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "sumit241cv15046606",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1434942724959764564"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "c4lbc14oh9a4mfbv1q9v16e4",
+      "name": "Team Krypsis",
+      "slug": "team-krypsis",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/team-krypsis",
+      "description": "Bunch of lonely developers trying to make an impact!",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "jagant160738267",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "949888748064243722"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "lijfq6jpbyuep2t5nuizjhux",
+      "name": "Agentic Titans",
+      "slug": "agentic-titans",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/agentic-titans",
+      "description": "AI which helps smooth functioning.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "karan2410173571",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1366312518456315924"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "uaiazxz0zvlarj79dxo9wbxx",
+      "name": "SuperSymmetry",
+      "slug": "supersymmetry",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/supersymmetry",
+      "description": "building personally and enjoying the process",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "nownotloki96654",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1176019450059833454"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "mzec03iwmuo475lmrs8px3vb",
+      "name": "NexusAI",
+      "slug": "nexusai",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/nexusai",
+      "description": "Paki Developers aiming to win this",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "IbadUddinSiddqui",
+          "username": "ibaduddinsiddqui152",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1159745813950496790"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "qu9h5i4q869htg213du36f5c",
+      "name": "Insight Engineer",
+      "slug": "insight-engineer",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/insight-engineer",
+      "description": "Insight Engineer is a team driven by curiosity, creativity, and problem-solving. We focus on turning complex problems into practical.",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "HEMAARUBAN   S",
+          "username": "Hemxx",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "1289158450185764920"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "p0kecoskvqa8kpnew1n0799z",
+      "name": "Dev-Hack",
+      "slug": "dev-hack",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/dev-hack",
+      "description": "I am building an spoilage 0 % supply chain management system for farmers .",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "priyanshusarjan74579",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "947138627891257364"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "h40fkxexdjyy20nu1gbv5ptv",
+      "name": "Techkrish",
+      "slug": "techkrish",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/techkrish",
+      "description": "I came here to build new tech or agent",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "HariomVijayKumbhar",
+          "username": "hariomvijaykumbhar553",
+          "location": "",
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": "",
+          "discord": "1430522575485931555"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 28.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4; Has active idea: +15"
+    },
+    {
+      "id": "v9rn2nugv9hdfkzbocxqt64h",
+      "name": "Team Starfire",
+      "slug": "team-starfire",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/team-starfire",
+      "description": "Team Starfire - Coz we are OP",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 2,
+      "openSlots": 4,
+      "members": [
+        {
+          "name": "TADASINA REDDY",
+          "username": "vigneshrdy",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "902810634318647306"
+        },
+        {
+          "name": "Shoaib Sadiq",
+          "username": "shoaibkulsums18872",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1238843466339979277"
+        }
+      ],
+      "asianCount": 2,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 22.0,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (4) but INVITE_ONLY: +10; All Asian team: +5; Core team (2): +7"
+    },
+    {
+      "id": "msjyo13c5bmw1o02fzbdi3mq",
+      "name": "INTERN ML",
+      "slug": "intern-ml",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/intern-ml",
+      "description": "yup its a good a favorable",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Muhammad Usman",
+          "username": "m_usman708",
+          "location": "Pakistan",
+          "country": "Pakistan",
+          "flag": "🇵🇰",
+          "group": "Asian",
+          "reason": "Country: Pakistan",
+          "role": "AI ML",
+          "discord": "1475510580407308288"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 18.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "uikq0pyzk2bvh56fgda8czro",
+      "name": "GXI",
+      "slug": "gxi",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/gxi",
+      "description": "we  deliver with vibes",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Gunjan Sarkar",
+          "username": "stdevilgunjan32339",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "335034870994567170"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 18.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "rfxjq167wuj2kgjp7xbalt33",
+      "name": "Koders",
+      "slug": "koders",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/koders",
+      "description": "Koding for better future",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Harsh Kumar",
+          "username": "HarshGupta",
+          "location": null,
+          "country": null,
+          "flag": "🌏",
+          "group": "Asian",
+          "reason": "Name match (kumar)",
+          "role": null,
+          "discord": "1455950390519402546"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 18.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "pza876tj0a52rvx9wltlps9h",
+      "name": "MINUS ZERO",
+      "slug": "minus-zero",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/minus-zero",
+      "description": "Come and go is not allowed",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Yash Vishwakarma",
+          "username": "yv_3000",
+          "location": "India",
+          "country": "India",
+          "flag": "🇮🇳",
+          "group": "Asian",
+          "reason": "Country: India",
+          "role": "",
+          "discord": "1322269915599601715"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 18.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "f1mt205k0vafqb63ot6qyddv",
+      "name": "Break Through",
+      "slug": "break-through",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/break-through",
+      "description": "Innovation focused team",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Shaik sameer",
+          "username": "sameershaik2001",
+          "location": null,
+          "country": null,
+          "flag": "🌏",
+          "group": "Asian",
+          "reason": "Name match (shaik)",
+          "role": null,
+          "discord": "767261662717673473"
+        }
+      ],
+      "asianCount": 1,
+      "intlCount": 0,
+      "unclassCount": 0,
+      "score": 18.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; All Asian team: +5; Core team (1): +4"
+    },
+    {
+      "id": "thxr9wonwa06rtll8porqjby",
+      "name": "Zenox",
+      "slug": "zenox",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/zenox",
+      "description": "I don't know. Let's see",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "pk64904730835",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "825000067224174618"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 13.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4"
+    },
+    {
+      "id": "q96c3l40f283l9iixvp46v01",
+      "name": "Wishmakers",
+      "slug": "wishmakers",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/wishmakers",
+      "description": "Bring child's dream come true",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "mailnibi332729",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "785763008168984606"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 13.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4"
+    },
+    {
+      "id": "bbvwvo5p96ji4rbded2lvjzg",
+      "name": "Agent 47",
+      "slug": "agent-47",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/agent-47",
+      "description": "Design | Build | Solve",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Anonymous",
+          "username": "basit31631625617",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "755395096962400277"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 13.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4"
+    },
+    {
+      "id": "i1wj31dcp6srtd4kwcag2hsi",
+      "name": "Yessine mahdi",
+      "slug": "yessine-mahdi",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/yessine-mahdi",
+      "description": "Joining to get experience",
+      "joinMode": "CLOSED",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "Yessine Mahdi",
+          "username": "Elweld1",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "689616603297480754"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 13.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but CLOSED: +10; Core team (1): +4"
+    },
+    {
+      "id": "xhbiqbvsvhunulin021dcaey",
+      "name": "hustake",
+      "slug": "hustake",
+      "url": "https://lablab.ai/ai-hackathons/amd-developer-hackathon-act-iii/hustake",
+      "description": "new technology lmao :D",
+      "joinMode": "INVITE_ONLY",
+      "limit": 6,
+      "memberCount": 1,
+      "openSlots": 5,
+      "members": [
+        {
+          "name": "VieHung",
+          "username": "viehung263",
+          "location": null,
+          "country": null,
+          "flag": "❓",
+          "group": "Unclassified",
+          "reason": "Unspecified",
+          "role": null,
+          "discord": "685293907017465870"
+        }
+      ],
+      "asianCount": 0,
+      "intlCount": 0,
+      "unclassCount": 1,
+      "score": 13.5,
+      "matchTag": "✅ Open Team (Ready)",
+      "scoreBreakdown": "Slots open (5) but INVITE_ONLY: +10; Core team (1): +4"
+    }
+  ]
+}
